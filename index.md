@@ -1,7 +1,10 @@
 ![IMG_5279](https://user-images.githubusercontent.com/95088583/143688378-4c17f5e6-20cf-49c9-bcec-146f153efea9.jpg)
 
 # About Me
-  Hello my name is **Kamonluk Waoram** and you can call me as Mind.Graduated from high school in the STEM Education program.Now, I am a first-year student in an interdisciplinary college program of Data Science and Innovation. University of Thammasat I am a person who is easy to get along with and who is interested in technology,?athematics, English, Japanese, and Korean. Capable of working well with others and always striving to improve myself I enjoy learning new things.
+  Hello my name is **Kamonluk Waoram** and you can call me as Mind.Graduated from high school in the STEM Education program.
+  Now, I'm a first-year student in an interdisciplinary college program of Data Science and Innovation. University of Thammasat. 
+  I am a person who is easy to get along with and who is interested in technology,?athematics, English, Japanese, and Korean. 
+  Capable of working well with others and always striving to improve myself I enjoy learning new things.
   
 ## **Objective**
         Birthday : 8 Aug 2002 
