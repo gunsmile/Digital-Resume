@@ -1,5 +1,6 @@
+![Image](![image](https://user-images.githubusercontent.com/95088583/143686974-578d44f7-f0f3-460c-a55f-2519d37f9d2a.png))
 # About Me
-  Hello my name is Kamonluk Waoram.and you can call me as Mind. I am a first-year student in an interdisciplinary college program of Data Science and Innovation. University of Thammasat I am a person who is easy to get along with and who is interested in technology, English, Japanese, and Korean. Capable of working well with others and always striving to improve myself I enjoy learning new things.
+  Hello my name is Kamonluk Waoram.and you can call me as Mind.Graduated from high school in the STEM Education program.Now, I am a first-year student in an interdisciplinary college program of Data Science and Innovation. University of Thammasat I am a person who is easy to get along with and who is interested in technology,?athematics, English, Japanese, and Korean. Capable of working well with others and always striving to improve myself I enjoy learning new things.
 
 ## Skills
   * Analytical thinking and innovation
@@ -11,13 +12,18 @@
   * Active learning and learning strategies
 
 ## Experience
-  * Participated in the Academic Olympiad Physics Camp 2018
-  * Website design and development 2018
-  * Write a program to control the robot. and study C,C# programming language for 4 years
-  * Work on graphics for high school
+  * Participated in the Academic Olympiad Physics Camp 
+  * Website design and development 
+  * Write a program to control the robot by C,C# programming language
+  * Competition for mathematical creations using the geometer's sketchpad
+  * Mathematical Intelligence Competition 
+  * Participated in Digital 2019 Thailand camp by Microsoft
+  * Work on graphic design for high school
   * Create a video to present on the topic environmental protections
   * Participate in a Japanese language skill development camp and study Japanese for 3 years
-### Header 3
+ 
+## Contact
+  *
 
 - Bulleted
 - List
