@@ -58,4 +58,3 @@
   * Phone : +66 88 0461902
   * Email : my.kamon4@gmail.com
 
-![IMG_5282](https://user-images.githubusercontent.com/95088583/143689720-50fcf4e7-2761-4c07-80a0-d679d31971da.png)
