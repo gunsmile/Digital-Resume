@@ -1,6 +1,7 @@
 # **KAMONLUK WAORAM**
 # **DATA SCIENCE STUDENT**
 
+
 ![IMG_5279](https://user-images.githubusercontent.com/95088583/143688378-4c17f5e6-20cf-49c9-bcec-146f153efea9.jpg)
 
 # About Me
@@ -9,14 +10,14 @@
   I am a person who is easy to get along with and who is interested in technology,?athematics, English, Japanese, and Korean. 
   Capable of working well with others and always striving to improve myself I enjoy learning new things.
   
-## **Objective**
+# **Objective**
         Birthday : 8 Aug 2002 
         Age : 19
         Gender : Female
         Nationality : Thai
         Civil Satus : Single
 
-## Skills
+# Skills
   * Analytical thinking and innovation
   * Technology design and programming
   * Creativity, Originality and Initiative
@@ -25,7 +26,7 @@
   * Emotional intelligence
   * Active learning and learning strategies
 
-## Software
+# Software
         MS Word               100 %
         MS Exel               80  %
         Adobe Photoshop       80  %
@@ -33,7 +34,7 @@
         Wordpress             70  %
         Adobe illustrator     60  %
 
-## Experience
+# Experience
   * Participated in the Academic Olympiad Physics Camp 
   * Website design and development 
   * programming to control the robot by C,C# programming language
@@ -45,7 +46,7 @@
   * Innovation Programming
   * Participate in a Japanese language skill development camp and study Japanese for 3 years
  
-## Hobbies & Interests
+# Hobbies & Interests
         Camera
         Music
         Books 
@@ -53,6 +54,6 @@
         Game 
         Trave
   
-## Contact
+# Contact
   * Phone : +66 88 0461902
   * Email : my.kamon4@gmail.com
