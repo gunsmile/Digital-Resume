@@ -1,4 +1,4 @@
-![Image](![image](https://user-images.githubusercontent.com/95088583/143686974-578d44f7-f0f3-460c-a55f-2519d37f9d2a.png))
+![IMG_5279](https://user-images.githubusercontent.com/95088583/143687103-3e13bb00-0cef-4498-8c63-6fb0767c8d0d.jpg)
 # About Me
   Hello my name is Kamonluk Waoram.and you can call me as Mind.Graduated from high school in the STEM Education program.Now, I am a first-year student in an interdisciplinary college program of Data Science and Innovation. University of Thammasat I am a person who is easy to get along with and who is interested in technology,?athematics, English, Japanese, and Korean. Capable of working well with others and always striving to improve myself I enjoy learning new things.
 
@@ -23,24 +23,5 @@
   * Participate in a Japanese language skill development camp and study Japanese for 3 years
  
 ## Contact
-  *
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gunsmile/Digital-Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  * Phone +66 88 0461902
+  * Email : my.kamon4@gmail.com
