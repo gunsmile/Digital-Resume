@@ -28,12 +28,12 @@
   * Active learning and learning strategies
 
 # Software
-        MS Word               100 %
-        MS Exel               80  %
-        Adobe Photoshop       80  %
-        Adobe premiere pro    70  %
-        Wordpress             70  %
-        Adobe illustrator     60  %
+        MS Word   100 %
+        MS Exel   80  %
+        Adobe Photoshop   80  %
+        Adobe premiere pro   70  %
+        Wordpress   70  %
+        Adobe illustrator   60  %
 
 # Experience
   * Participated in the Academic Olympiad Physics Camp 
