@@ -1,12 +1,12 @@
-![IMG_5279](https://user-images.githubusercontent.com/95088583/143687103-3e13bb00-0cef-4498-8c63-6fb0767c8d0d.jpg)
+![IMG_5279](https://user-images.githubusercontent.com/95088583/143688378-4c17f5e6-20cf-49c9-bcec-146f153efea9.jpg)
 # About Me
   Hello my name is **Kamonluk Waoram** and you can call me as Mind.Graduated from high school in the STEM Education program.Now, I am a first-year student in an interdisciplinary college program of Data Science and Innovation. University of Thammasat I am a person who is easy to get along with and who is interested in technology,?athematics, English, Japanese, and Korean. Capable of working well with others and always striving to improve myself I enjoy learning new things.
-   ### **Objective**
-            Birthday : 8 Aug 2002 
-            Age : 19
-            Gender : Female
-            Nationality : Thai
-            Civil Satus : Single
+### **Objective**
+        Birthday : 8 Aug 2002 
+        Age : 19
+        Gender : Female
+        Nationality : Thai
+        Civil Satus : Single
 
 ## Skills
   * Analytical thinking and innovation
@@ -38,7 +38,7 @@
   * Participate in a Japanese language skill development camp and study Japanese for 3 years
  
 ## Hobbies & Interests
-  Camera / Music / Books / Movie / Game / Trave
+  **Camera / Music / Books / Movie / Game / Trave**
   
 ## Contact
   * Phone : +66 88 0461902
