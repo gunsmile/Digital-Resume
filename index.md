@@ -1,7 +1,7 @@
-## About Me
-  สวัสดีค่ะ ฉันชื่อกมลลักษณ์ เหว่ารัมย์ ปัจจุบันเป็นนักศึกษาชั้นปีที่ 1 วิทยาลัยสหวิทยาการ หลักสูตร วิทยาศาสตร์และนวัตกรรมข้อมูล มหาวิทยาลัยธรรมศาสตร์ มีความสนใจเกี่ยวกับด้านเทคโนโลยีและด้านภาษาอังกฤษ ภาษาญี่ปุ่นและภาษาเกาหลี ฉันเป็นคนที่เข้ากับคนได้ง่าย สามารถทำงานร่วมกับคนอื่นได้ดี และเป็นคนที่พัฒนาตัวเองอยู่ตลอด ชื่นชอบที่จะได้เรียนรู้อะไรใหม่ๆ
+# About Me
+  Hello my name is Kamonluk Waoram.and you can call me as Mind. I am a first-year student in an interdisciplinary college program of Data Science and Innovation. University of Thammasat I am a person who is easy to get along with and who is interested in technology, English, Japanese, and Korean. Capable of working well with others and always striving to improve myself I enjoy learning new things.
 
-### Skills
+## Skills
   * Analytical thinking and innovation
   * Technology design and programming
   * Creativity, Originality and Initiative
@@ -10,8 +10,13 @@
   * Emotional intelligence
   * Active learning and learning strategies
 
-# About me
-## Header 2
+## Experience
+  * Participated in the Academic Olympiad Physics Camp 2018
+  * Website design and development 2018
+  * Write a program to control the robot. and study C,C# programming language for 4 years
+  * Work on graphics for high school
+  * Create a video to present on the topic environmental protections
+  * Participate in a Japanese language skill development camp and study Japanese for 3 years
 ### Header 3
 
 - Bulleted
