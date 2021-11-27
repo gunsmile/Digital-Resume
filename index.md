@@ -1,3 +1,6 @@
+# **KAMONLUK WAORAM**
+# **DATA SCIENCE STUDENT**
+
 ![IMG_5279](https://user-images.githubusercontent.com/95088583/143688378-4c17f5e6-20cf-49c9-bcec-146f153efea9.jpg)
 
 # About Me
